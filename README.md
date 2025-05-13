@@ -13,5 +13,6 @@ python prompting
 ```
 
 ## Example
-![image](https://github.com/user-attachments/assets/34096577-3376-4ef8-807d-ddaade7135d0)
+I have used postman to give an example
+![image](https://github.com/user-attachments/assets/34096577-3376-4ef8-807d-ddaade7135d0)</br>
 ![Screenshot from 2025-05-13 14-22-36](https://github.com/user-attachments/assets/607505ef-d05c-4abf-9826-6f6f582f30d7)
